@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>My Resume</title>
+</head>
+
+<body>
+<center>
+<header>
+<hgroup>
+	<h1>Allen D. Pickett</h1>
+	<h4>3211 Windleshore Way Sanford, Fl 32773</h4>
+	</hgroup>
+	<article></article>
+  <header>
+	  <h2>Objective</h2>
+	</header>
+  <p>To be rich and not stressed</p>
+</header>	
+    <h2>Summary of Skills</h2>
+	 	<ul>
+      <li>Long Layout Formatting</li>
+      <li>Proficient in Digital and Print set up</li>
+      <li>Certified in Microsoft Office</li>
+      <li>Certified in Adobe Suite</li>
+    </ul>
+<header>
+	  <h2>Experience</h2>
+	</header>
+    <h3>World Wide Advertising</h3>
+    <dl>
+      <dt>September/2010 - Present</dt>
+      <ul>
+		  <li>Create long layout documents to client's specifications</li>
+		  <li>Maintain quantity goal while exceeding quality standards</li>
+		  <li>Responsible for communications with printer and client</li></ul>
+		<header>
+	  <h2>Education</h2>
+  <h3>Cleveland School of the Arts</h3>
+    <dl>
+      <dt>High School Diploma 2008</dt>
+		
+  <h3>Seminole State College of Florida</h3>
+    <dl>
+      <dt>Associates of Arts Graphic Design 2010</dt>
+ <h3>REFERENCES AVAILABLE UPON REQUEST</h3>
+		</center>
+</body>
+</html>
+
